@@ -40,3 +40,5 @@
 9. After downloading the file into your local machine, simply unzip it and get the files you want
    
    ![](https://i.imgur.com/eqjx81T.png)  
+
+10. Don’t forget to stop the training
